@@ -6,7 +6,7 @@ class Dog
     @this_dogs_name
 end
 end 
-
+end
 fido = dog_name
 fido.name = "Fido"
 puts fido.name 
