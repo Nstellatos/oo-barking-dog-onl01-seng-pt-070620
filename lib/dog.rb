@@ -7,7 +7,7 @@ class Dog
 end
 end 
 end
-fido = dog_name
+fido = dog.name
 fido.name = "Fido"
 puts fido.name 
 end 
