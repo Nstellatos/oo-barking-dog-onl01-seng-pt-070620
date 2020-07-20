@@ -5,9 +5,9 @@ class Dog
   def name
     @this_dogs_name
 end
-end
+
 fido = dog.name
 fido.name = "Fido"
 puts fido.name 
-end
-end
+
+
